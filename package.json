@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "satart": "node backend/server.js",
+    "server": "nodemon backend/server.js",
+    "client": "npm start --prefix"
+  },
+  "author": "Padmavathi",
+  "license": "MIT",
+  "description": ""
+}
